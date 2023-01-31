@@ -1,5 +1,5 @@
 #-----------------------------------------------------
-# Homework 1: Plots and functions
+# Homework 2: Plots and functions
 #-----------------------------------------------------
 # 20 points total (1 point = 5% of grade)
 # This assignment will count as a "Journal" grade.
@@ -37,8 +37,23 @@
 #--------
 
 # Problem 3:
-# The following equation is used to predict the change
-# in the concentration of a source
+# The following equation is used to track the change in
+# the concentration of a reactive substance (A) in the chemical reaction:
+# A + A -> P. The equation is:
+# (1/[A])=(1/[A0])+k*t
+# where [A] is the concentration of substance A (mol/L)
+# where [A0] is the initial concentration of A when the reaction starts (mol/L)
+# where "k" is the reaction rate constant. Use a value of 0.15 (units: 1/s)
+# where "t" is time, in seconds.
+
+# Write a function to calculate the value of 1/[A] over the course of
+# 5 minutes if the initial concentration of A is 2 mol/L.
+
 # (10 points)
-#-------
-# Hint
+#--------
+#
+#--------
+
+#--------------------------------------------------------
+# End of assignment
+#--------------------------------------------------------
