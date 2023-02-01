@@ -46,8 +46,9 @@
 # where "k" is the reaction rate constant. Use a value of 0.15 (units: 1/s)
 # where "t" is time, in seconds.
 
-# Write a function to calculate the value of 1/[A] over the course of
-# 5 minutes if the initial concentration of A is 2 mol/L.
+# Write a function (def) to calculate the value of 1/[A] over the course of
+# 5 minutes if the initial concentration of A is 2 mol/L. Plot the result with
+# x-axis and y-axis labels.
 
 # (10 points)
 #--------
