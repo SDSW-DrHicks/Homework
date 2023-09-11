@@ -3,7 +3,6 @@
 #-----------------------------------------------------
 # Debug the following Python script
 # 25 points total (1 point = 4% of grade)
-# This assignment will count as a "Journal" grade.
 # You may use class notes of visit office hours.
 # You cannot work on this assignment as a group.
 
